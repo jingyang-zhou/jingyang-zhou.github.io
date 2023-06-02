@@ -9,4 +9,10 @@ title: Research articles
 
 * Brute force comparison of model-predicted metric tensors using human perceptual thresholds would require an impossibly large set of measurements. To circumvent this “perceptual curse of dimensionality”, we compute and measure discrimination capabilities for a small set of most-informative perturbations, reducing the measurement cost from thousands of hours (a conservative estimate) to a single trial. 
 
-* We demonstrate the power of this method in assessing three different examples: 1) comparing models for color discrimination; 2) comparing dense neural networks with different regularizers; 3) comparing adversarially-trained versus pre-trained neural networks for perceptual discriminability
+* We demonstrate the power of this method in assessing three different examples: 1) comparing models for color discrimination; 2) comparing dense neural networks with different regularizers; 3) comparing adversarially-trained versus pre-trained neural networks for perceptual discriminability.
+
+## A common framework for discriminability and perceived intensity of sensory stimuli
+
+## Quantifying and predicting chromatic thresholds
+
+## How does perceptual discriminability relate ot neuronal receptive fields?
