@@ -8,3 +8,5 @@ title: Representational dissimilarity metric spaces for stochastic neural networ
 * We generalize previously proposed shape metrics (Williams et al., 2021) to quantify differences in stochastic representations. These new distances satisfy the triangle inequality, and thus can be used as a rigorous basis for many supervised and unsupervised analyses. 
 
 * We find that the stochastic geometries of neurobiological representations of oriented visual gratings and naturalistic scenes respectively resemble untrained and trained deep network representations. Further, we are able to more accurately predict certain network attributes (e.g. training hyperparameters) from its position in stochastic (versus deterministic) shape space.
+
+[[Paper]](https://arxiv.org/pdf/2211.11665.pdf)
