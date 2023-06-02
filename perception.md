@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research articles
+title: Perception
 ---
 
 ## Comparing models of neural representation based on their metric tensors
