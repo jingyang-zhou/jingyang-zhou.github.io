@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research articles
+title: Neuroscience
 ---
 
 ## Representational dissimilarity metric spaces for stochastic neural networks
