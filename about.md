@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I study human and machine perception, neuroimaging, and sensory neuroscience using theoretical, computational and experimental methods.
+I study human/machine perception and sensory neuroscience using theoretical, computational and experimental methods.
 
 ### More Information
 
