@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Research articles
+category: blog1
+title: 'My first post'
+date: 2012-04-06 21:35
 ---
 
 ## Comparing models of neural representation based on their metric tensors
