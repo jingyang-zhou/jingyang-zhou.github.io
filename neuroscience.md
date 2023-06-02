@@ -14,17 +14,22 @@ title: Neuroscience
 
 ## Delayed normalization model captures disparate nonlinear neural dynamics measured with different techniques in macaque and human V1
 
-* Voltage-sensitive dye imaging (VSDI) is a powerful method for measuring neural population responses from the cortex of awake, behaving, subjects. Here we used VSDI to measure the
-dynamics of neural population responses in macaque V1 to visual stimuli with a wide range of time courses.
+* Voltage-sensitive dye imaging (VSDI) is a powerful method for measuring neural population responses from the cortex of awake, behaving, subjects. We used VSDI to measure the
+dynamics of neural population responses in macaque V1 to visual stimuli with a wide range of time courses. We built a simple yet flexible delayed normalization model to capture the dynamics of all these measurements.
 
-* We found that beyond clear nonlinearities for briefly presented visual stimuli, stimulus-evoked VSDI responses are near additive in time. These results are qualitatively different from neural dynamics to similar stimuli previously measured in human visual cortex using fMRI and electrocorticography (ECoG), which show strong sub-additivity in time.
+* We found that beyond clear nonlinearities for briefly presented visual stimuli, stimulus-evoked VSDI responses are near additive in time, which qualitatively differs from neural dynamics previously measured in human visual cortex using fMRI and electrocorticography (ECoG), which show strong sub-additivity in time.
 
 * To test whether this discrepancy is specific to VSDI, a signal dominated by subthreshold neural activity, we repeated our measurements using a genetically encoded calcium indicator (GCaMP), a signal dominated by spiking activity. We found that GCaMP signals in macaque V1 are also near additive. 
 
-* We show that a simple yet flexible delayed normalization model can capture the dynamics of all of these measurements, suggesting that dynamic gain-control is an important mechanism contributing to neural processing in the brain.
 
 
 ## Predicting neuronal dynamics with a delayed gain control model
+
+* Visual neurons respond to static images with specific dynamics: neuronal responses sum sub-additively over time, reduce in amplitude with repeated or sustained stimuli (neuronal adaptation), and are slower at low stimulus contrast. 
+
+* We propose a simple delayed normalization model that predicts these seemingly disparate response patterns observed in a diverse set of measurements–intracranial electrodes in patients, fMRI, and macaque single unit spiking. 
+
+* Fitting the model to intracranial EEG data uncovers two regularities across human visual field maps: estimated linear filters (temporal receptive fields) systematically differ across and within visual field maps, and later areas exhibit more rapid and substantial gain control. The model is further generalizable to account for dynamics of contrast-dependent spike rates in macaque V1, and amplitudes of fMRI BOLD in human V1.
 
 
 ## Systematic changes in temporal summation across human visual cortex
