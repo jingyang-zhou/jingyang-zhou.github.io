@@ -33,3 +33,9 @@ dynamics of neural population responses in macaque V1 to visual stimuli with a w
 
 
 ## Systematic changes in temporal summation across human visual cortex
+
+* How visual areas in the human brain process information distributed over time? One challenge to answer this question is that the most widely used neuroimaging method, fMRI, has coarse temporal resolution compared with the time-scale of neural dynamics. 
+
+* Via carefully controlled temporally modulated stimuli, we show that information about temporal processing can be readily derived from fMRI signal amplitudes. We find that all visual areas exhibit subadditive summation, whereby responses to longer stimuli are less than the linear prediction from briefer stimuli. We also find fMRI evidence that the neural response to two stimuli is reduced for brief interstimulus intervals (indicating adaptation). These effects are more pronounced in visual areas anterior to V1-V3. 
+
+* We develop a general model that shows how these effects can be captured with two simple operations: temporal summation followed by a compressive nonlinearity. This model operates for arbitrary temporal stimulation patterns and provides a simple and interpretable set of computations that can be used to characterize neural response properties across the visual hierarchy. 
