@@ -14,6 +14,8 @@ title: Neuroscience
 
 ## Delayed normalization model captures disparate nonlinear neural dynamics measured with different techniques in macaque and human V1
 
+update
+
 
 ## Predicting neuronal dynamics with a delayed gain control model
 
