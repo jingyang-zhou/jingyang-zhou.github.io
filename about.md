@@ -6,9 +6,15 @@ permalink: /about/
 
 I study human/machine perception and sensory neuroscience using theoretical, computational and experimental methods.
 
-### More Information
+### Affiliations
 
-A place to include any other types of information that you'd like to include about yourself.
+* **2019-present**  
+  Prof. [Eero Simoncelli](https://www.cns.nyu.edu/~lcv/) &nbsp;**&#124;**&nbsp; Postdoc/Research Fellow  
+  [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) &nbsp;**&#124;**&nbsp;[New York University](https://nyu.edu) [Psychology](https://as.nyu.edu/psychology.html)  
+  
+* **2013-2019**  
+  Profs. [Jonathan Winawer](https://wp.nyu.edu/winawerlab) &nbsp;**&#124;**&nbsp; phD from
+  [New York University](https://nyu.edu) &nbsp;**&#124;**&nbsp; [Psychology](https://as.nyu.edu/psychology.html) 
 
 ### Contact me
 
