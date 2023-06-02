@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Research articles
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
@@ -9,7 +9,12 @@ Next you can update your site name, avatar and other options using the _config.y
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
----
-layout: post
-title: You're up and running!
----
+## Comparing models of neural representation based on their metric tensors
+
+Internal representations are not uniquely identifiable from perceptual measurements: different representations can generate identical perceptual predictions, and dissimilar model representations (according to existing model comparison methods) do not guarantee dissimilar perceptual predictions. 
+
+* We generalize a previous method (“eigendistortions” - Berardino et al, 2017) to compare models based on their metric tensors. Metric tensors characterize a model’s sensitivity to stimulus perturbations, reflecting both the geometric and stochastic properties of the representation, and providing an explicit prediction of perceptual discriminability. 
+
+* Brute force comparison of model-predicted metric tensors using human perceptual thresholds would require an impossibly large set of measurements. To circumvent this “perceptual curse of dimensionality”, we compute and measure discrimination capabilities for a small set of most-informative perturbations, reducing the measurement cost from thousands of hours (a conservative estimate) to a single trial. 
+
+* We demonstrate the power of this method in assessing three different examples: 1) comparing models for color discrimination; 2) comparing dense neural networks with different regularizers; 3) comparing adversarially-trained versus pre-trained neural networks for perceptual discriminability
