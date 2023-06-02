@@ -1,9 +1,7 @@
 ---
 layout: post
-date: 2023-06-02 21:35
+title: Comparing models of neural representation based on their metric tensors
 ---
-
-## Comparing models of neural representation based on their metric tensors
 
 * We generalize a previous method (“eigendistortions” - Berardino et al, 2017) to compare neural/neural network models based on their metric tensors. Metric tensors characterize a model’s sensitivity to stimulus perturbations, reflecting both the geometric and stochastic properties of the representation, and providing an explicit prediction of perceptual discriminability. 
 
