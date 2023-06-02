@@ -5,12 +5,11 @@ title: Neuroscience
 
 ## Representational dissimilarity metric spaces for stochastic neural networks
 
-* We generalize a previous method (“eigendistortions” - Berardino et al, 2017) to compare neural/neural network models based on their metric tensors. Metric tensors characterize a model’s sensitivity to stimulus perturbations, reflecting both the geometric and stochastic properties of the representation, and providing an explicit prediction of perceptual discriminability. 
+* Existing methods compare deterministic responses (e.g. artificial networks that lack stochastic layers) or averaged responses (e.g., trial-averaged firing rates in biological data). However, these measures of deterministic representational similarity ignore the scale and geometric structure of noise, both of which play important roles in neural computation. 
 
-* Brute force comparison of model-predicted metric tensors using human perceptual thresholds would require an impossibly large set of measurements. To circumvent this “perceptual curse of dimensionality”, we compute and measure discrimination capabilities for a small set of most-informative perturbations, reducing the measurement cost from thousands of hours (a conservative estimate) to a single trial. 
+* We generalize previously proposed shape metrics (Williams et al., 2021) to quantify differences in stochastic representations. These new distances satisfy the triangle inequality, and thus can be used as a rigorous basis for many supervised and unsupervised analyses. 
 
-* We demonstrate the power of this method in assessing three different examples: 1) comparing models for color discrimination; 2) comparing dense neural networks with different regularizers; 3) comparing adversarially-trained versus pre-trained neural networks for perceptual discriminability.
-* 
+* We find that the stochastic geometries of neurobiological representations of oriented visual gratings and naturalistic scenes respectively resemble untrained and trained deep network representations. Further, we are able to more accurately predict certain network attributes (e.g. training hyperparameters) from its position in stochastic (versus deterministic) shape space
 
 ## Delayed normalization model captures disparate nonlinear neural dynamics measured with different techniques in macaque and human V1
 
