@@ -1,4 +1,9 @@
 
+---
+layout: post
+title: Research articles
+---
+
 ## Representational dissimilarity metric spaces for stochastic neural networks
 
 * We generalize a previous method (“eigendistortions” - Berardino et al, 2017) to compare neural/neural network models based on their metric tensors. Metric tensors characterize a model’s sensitivity to stimulus perturbations, reflecting both the geometric and stochastic properties of the representation, and providing an explicit prediction of perceptual discriminability. 
