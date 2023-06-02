@@ -19,7 +19,7 @@ dynamics of neural population responses in macaque V1 to visual stimuli with a w
 
 * We found that beyond clear nonlinearities for briefly presented visual stimuli, stimulus-evoked VSDI responses are near additive in time. These results are qualitatively different from neural dynamics to similar stimuli previously measured in human visual cortex using fMRI and electrocorticography (ECoG), which show strong sub-additivity in time.
 
-* To test whether this discrepancy is specific to VSDI, a signal dominated by subthreshold neural activity, we repeated our measurements using a genetically encoded calcium indicator (GCaMP), a signal dominated by spiking activity. We found that GCaMP signals in macaque V1 are also nearadditive. 
+* To test whether this discrepancy is specific to VSDI, a signal dominated by subthreshold neural activity, we repeated our measurements using a genetically encoded calcium indicator (GCaMP), a signal dominated by spiking activity. We found that GCaMP signals in macaque V1 are also near additive. 
 
 * We show that a simple yet flexible delayed normalization model can capture the dynamics of all of these measurements, suggesting that dynamic gain-control is an important mechanism contributing to neural processing in the brain.
 
