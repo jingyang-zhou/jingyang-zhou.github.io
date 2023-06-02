@@ -1,6 +1,7 @@
-
-
-## How does perceptual discriminability relate to neuronal receptive fields?
+---
+layout: post
+title: How does perceptual discriminability relate to neuronal receptive fields?
+---
 
 * Our perception changes only when underlying neuronal responses change. Because visual neurons preferentially respond to some pixel adjustments in an image, perceptually we are more sensitive to change in some pixel combinations more than others. 
 
