@@ -11,10 +11,10 @@ Here is the [link](https://www.simonsfoundation.org/2023/02/10/a-new-era-of-perc
 
 ## Manhattan Representational Geometry workshop
 
-I co-organized the workshop with Nikolaus Kriegeskorte, Heiko Schuett and Xue-Xin Wei, and the workshop took place at Zuckerman Mind Brain Behavior Institute on January 6th and 7th, 2023. The workshop focused on
+I co-organized the workshop with Nikolaus Kriegeskorte, Heiko Schuett and Xue-Xin Wei, and the workshop took place at Zuckerman Mind Brain Behavior Institute on January 6th and 7th, 2023. The workshop focused on:
 
-* Clarify the theory and mathematical foundation related to representational geometries;
-* Updated the participants about theoretical and methodological developments and shared resources (e.g. data, code)
-* Developed collaborations that connect theoretical ideas about representational geometry to experiments, including existing and future large-scale behavioral and brain-activity measurements.
+* Clarifying the theory and mathematical foundation related to representational geometries;
+* Updating the participants about theoretical and methodological developments and shared resources (e.g. data, code)
+* Developing collaborations that connect theoretical ideas about representational geometry to experiments, including existing and future large-scale behavioral and brain-activity measurements.
 
 ## Vision Journal Club at NYU
