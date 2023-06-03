@@ -18,3 +18,6 @@ I co-organized the workshop with Nikolaus Kriegeskorte, Heiko Schuett and Xue-Xi
 * Developing collaborations that connect theoretical ideas about representational geometry to experiments, including existing and future large-scale behavioral and brain-activity measurements.
 
 ## Vision Journal Club at NYU
+
+I organized Vision Journal Club at NYU since 2016, with Hormet Yiltiz (2016-2017), Kathryn Bonnen (2019-2021), and Robert Woodry (2021-present). We encourage communications between perception, sensory neuroscience and the theory community. We studied various papers in each of these three fields, with invited outside speakers since 2022. 
+
