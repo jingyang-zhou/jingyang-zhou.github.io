@@ -3,7 +3,7 @@ layout: post
 title: Scientific Communications
 ---
 
-## Interview with Simons Foundation on our 2024 PNAS article (A unified framework for perceived magnitude and discriminability of sensory stimuli)
+## Interview with Simons Foundation on article "A unified framework for perceived magnitude and discriminability of sensory stimuli"
 
 [Two Neuroscience Laws Governing How We Sense the World Finally United After 67 years](https://www.simonsfoundation.org/2024/06/17/two-neuroscience-laws-governing-how-we-sense-the-world-finally-united-after-67-years/). 
 Neuroscientists at the Flatiron Institute and New York University developed a new theoretical framework that describes our ability to both absolutely and relatively gauge the properties of sensory inputs. 
