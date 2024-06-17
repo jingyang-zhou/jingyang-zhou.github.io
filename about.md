@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I study human/machine perception and sensory neuroscience using methods ranging across theories, computations and experiments.
-Here is my [CV](/images/ZhouCV_2023_05.pdf).
+Here is my [CV](/images/ZhouCV_2024_06.pdf).
 
 
 
